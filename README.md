@@ -12,11 +12,9 @@ Welcome to my portfolio website. This is a simple and responsive personal portfo
 
 ##  Pages Included
 
-- **Home Page**
-  Introduces who I am, lists my interests and highlights my key projects.
+- **Home Page**: Introduces who I am, lists my interests and highlights my key projects.
 
-- **Contact Page**  
-  Allows visitors to fill out a form to contact me via name, email, and message.
+- **Contact Page**: Allows visitors to fill out a form to contact me via name, email, and message.
 
 
 ##  Technologies Used
