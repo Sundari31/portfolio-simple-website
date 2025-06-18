@@ -4,11 +4,11 @@ Welcome to my portfolio website. This is a simple and responsive personal portfo
 
 ##  Features
 
-- ✅ Clean and modern design
-- ✅ Responsive layout
-- ✅ Separate Home and Contact pages
-- ✅ Organized content with headings and sections
-- ✅ Contact form with input fields
+-  Clean and modern design
+-  Responsive layout
+-  Separate Home and Contact pages
+-  Organized content with headings and sections
+-  Contact form with input fields
 
 ##  Pages Included
 
